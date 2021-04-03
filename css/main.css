@@ -27,7 +27,7 @@ header nav .nav-right-section {
     align-items: center;
 }
 nav .nav-right-section a {
-    margin-right: 10px;
+    margin-right: 28px;
     color: #000000;
 }
 nav .nav-right-section .menu-icon {
@@ -129,7 +129,8 @@ footer {
     display: grid;
     grid-template-columns: 1fr 1fr;
     align-items: center;
-    font-size: 13px;
+    font-size: 14px;
+    font-family: arial,sans-serif;
     background-color: #f2f2f2;
     border-top: 1px solid #e4e4e4;
 }
@@ -146,6 +147,6 @@ footer .footer-right {
     justify-self: right;
 }
 footer ul li a {
-    margin: 10px;
-    color: #5f6368;
+    padding: 15px;
+    color: #70757a;
 }
